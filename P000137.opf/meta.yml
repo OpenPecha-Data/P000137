@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །བར་དོ་སྤྱིའི་དོན་ཐམས་ཅད་རྣམ་པ་གསལ་བར་བྱེད་པ་དྲན་པའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+    །།
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-07
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Mirror of Mindfulness:A Clear Explanation of All Aspects of Bardo
+    bo: བར་དོ་སྤྱིའི་དོན་ཐམས་ཅད་རྣམ་པ་གསལ་བར་བྱེད་པ་དྲན་པའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 7
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༧
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-07
+  category:
+    en: Bardo
+    bo: བར་དོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-07.epub
+  description:
+    en: ''
+    bo: ''

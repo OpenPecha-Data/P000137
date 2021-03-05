@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000137
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བར་དོ་སྤྱིའི་དོན་ཐམས་ཅད་རྣམ་པ་གསལ་བར་བྱེད་པ་དྲན་པའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
     །།
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-07
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: TSD-TSE-07
 web_metadata:
   title:
     en: The Mirror of Mindfulness:A Clear Explanation of All Aspects of Bardo
